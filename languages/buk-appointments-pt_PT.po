@@ -1,0 +1,107 @@
+# Translation of Plugins - Buk for WordPress - Stable Readme (latest release) in Portuguese (Portugal)
+# This file is distributed under the same license as the Plugins - Buk for WordPress - Stable Readme (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-18 17:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.3\n"
+"Language: pt\n"
+"Project-Id-Version: Plugins - Buk for WordPress - Stable Readme (latest release)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#. Short description.
+msgid "Simple and flexible online appointments for your clients. Add a BUK.app apointment shortcode to your WordPress site."
+msgstr "Agenda de marcações online simples e flexível para o seu negócio. Adicione marcações online ao seu site com o plugin BUK."
+
+#. Plugin name.
+msgid "Buk for WordPress"
+msgstr "BUK para WordPress"
+
+#. Found in faq paragraph.
+msgid "Sure, in order to allow bookings directly from your site you just need to use our BUK wordPress plugin. For Facebook and other social media profiles just follow our guide <a href=\"https://medium.com/buk-app/your-buk-public-link-8bc622957206\">here</a>."
+msgstr "Claro, para receber reservas a partir do seu site basta instalar o nosso plugin para WordPress. Para o Facebook e outras redes sociais siga as instruções no nosso guia <a href=“https://medium.com/buk-app/your-buk-public-link-8bc622957206”>aqui</a>."
+
+#. Found in faq paragraph.
+msgid "No. BUK focuses on giving users the simplest, most streamlined booking experience possible. We send texts and email confirmations and reminders to your customers to make sure they don’t miss their appointment."
+msgstr "Não. Com o BUK concentrámo-nos em oferecer aos seu clientes a experiência de marcação mais simples e rápida possível. São enviados SMSs e emails de confirmação e lembretes para os seus clientes para nos certificarmos que não falham os seus compromissos."
+
+#. Found in faq paragraph.
+msgid "Sure. If you need help setting up BUK or have any other question, get in touch here."
+msgstr "Claro. Se precisar de ajuda para configurar o BUK ou tiver alguma outra dúvida, entre em contato connosco."
+
+#. Found in faq paragraph.
+msgid "There is nothing to install. BUK uses the latest web technologies so your customers can access it on any device (mobile phones included)."
+msgstr "Não há nada para instalar. O BUK usa as mais recentes tecnologias Web para que seus clientes possam fazer marcações com qualquer dispositivo (telemóveis incluídos)."
+
+#. Found in faq header.
+msgid "Will BUK work with my site or Facebook profile?"
+msgstr "O BUK funcionará com o meu site ou perfil do Facebook?"
+
+#. Found in faq header.
+msgid "Can my costumers pay with BUK?"
+msgstr "Posso receber pagamentos pelo BUK?"
+
+#. Found in faq header.
+msgid "Can you help me set up BUK?"
+msgstr "Podem-me ajudar a configurar o BUK?"
+
+#. Found in faq header.
+msgid "How do I install BUK?"
+msgstr "Como instalo o BUK?"
+
+#. Found in faq paragraph.
+msgid "Absolutely not! BUK is made for any business that need to schedule appointments. It's used everyday by beauty salons, SPAs, personal trainers, physiotherapist, and many more professionals."
+msgstr "De todo!! O BUK é feito para qualquer empresa que precise de agendar marcações. É usado todos os dias por salões de beleza, SPAs, Personal Trainers, fisioterapeutas e muitos outros profissionais."
+
+#. Found in faq paragraph.
+msgid "BUK allows your customers to book appointments anywhere at anytime by themselves, without phoning, emailing or texting you."
+msgstr "O BUK permite que seus clientes agendem marcações consigo em qualquer lugar em qualquer momento autonomamente, sem telefonar e enviar email ou SMS para si."
+
+#. Found in faq header.
+msgid "Is BUK only for barbershops?"
+msgstr "O BUK é apenas para barbearias?"
+
+#. Found in faq header.
+msgid "What is BUK for?"
+msgstr "O que é o BUK?"
+
+#. Found in installation list item.
+msgid "Go to any post/page and include a \"buk\" shortcode with a single slug parameter refering to your BUK.app account (e.g., for https://example.buk.app use [buk slug=\"example\"])."
+msgstr "Vá a qualquer post ou página e inclua um atalho “buk” com o slug referente à sua conta BUK.pt (por exemplo, para https://exemplo.buk.pt use [buk slug=“exemplo”])."
+
+#. Found in description paragraph.
+msgid "Getting started:"
+msgstr "Como começar:"
+
+#. Found in description paragraph.
+msgid "Online booking software for your business. With your own-branded booking page your clients can easily see if you're available and make appointments on the fly. Access your online calendar, manage your appointments and notify your clients with unlimited automatic reminders via SMS and email. With the plugin you can add a buk.app shortcode to your WordPress site."
+msgstr "Agenda de marcações online simples e flexível para o seu negócio. Com a sua página de marcações os seus clientes podem fazer marcações a qualquer hora e em qualquer lugar. Aceda à sua agenda através de qualquer dispositivo e organize as suas marcações e dos seus colaboradores. Avise os seus clientes com lembretes automáticos ilimitados! Adicione a sua página de marcações online ao seu site com o plugin BUK."
+
+#. Found in description list item.
+msgid "You're done :)"
+msgstr "E já está!"
+
+#. Found in description list item.
+msgid "Add your \"buk\" shortcode to any page on your site."
+msgstr "Adicione seu atalho “buk” a qualquer página do seu site."
+
+#. Found in description list item.
+msgid "Create your free account at <a href=\"https://buk.app/\">BUK.app</a> "
+msgstr "Crie a sua conta gratuita em <a href=“https://buk.pt/“>BUK.pt</a> "
+
+#. Found in changelog list item.
+msgid "Added FAQs"
+msgstr "FAQs adicionadas"
+
+#. Found in changelog list item.
+msgid "First release"
+msgstr "Primeira release"
+
+#. Found in changelog list item.
+msgid "Instructions update"
+msgstr "Instruções actualizadas"
